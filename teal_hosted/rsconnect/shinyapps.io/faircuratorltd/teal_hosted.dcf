@@ -1,0 +1,12 @@
+name: teal_hosted
+title: teal_hosted
+username: faircuratorltd
+account: faircuratorltd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10822335
+bundleId:
+url: https://faircuratorltd.shinyapps.io/teal_hosted/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
