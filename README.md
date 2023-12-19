@@ -10,7 +10,7 @@ You should be able to see the following tabs:
 
 **1. Demographics table**
 
-![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/1_demographicstable.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/1_demographicstable.png?raw=true)
 
 **2. Adverse events**
 
