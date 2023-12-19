@@ -10,31 +10,31 @@ You should be able to see the following tabs:
 
 **1. Demographics table**
 
-![alt text](./1_demographicstable.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/1_demographicstable.png)
 
 **2. Adverse events**
 
-![alt text](./2_adverseevent.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/2_adverseevent.png)
 
 **3. Survival curves plot and tables**
 
-![alt text](./3_kmplots.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/3_kmplots.png)
 
 **4. Filtering**
 
-![alt text](./4_preparefilters.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/4_preparefilters.png)
 
 **5. Save view for final report**
 
-![alt text](./5_addcardforreport.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/5_addcardforreport.png)
 
 **6. Card report**
 
-![alt text](./6_downloadTargeReports.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/6_downloadTargeReports.png)
 
 **7. Bookmarks/snapshots of your interest**
 
-![alt text](./7_bookmark_snapshot.png)
+![](https://github.com/corinabioinformatic/teal_demo_2023/tree/main/www/7_bookmark_snapshot.png)
 
 
 
