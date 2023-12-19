@@ -14,27 +14,27 @@ You should be able to see the following tabs:
 
 **2. Adverse events**
 
-![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/tree/main/www/2_adverseevent.png)
+![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/main/www/2_adverseevent.png)
 
 **3. Survival curves plot and tables**
 
-![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/tree/main/www/3_kmplots.png)
+![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/main/www/3_kmplots.png)
 
 **4. Filtering**
 
-![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/tree/main/www/4_preparefilters.png)
+![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/main/www/4_preparefilters.png)
 
 **5. Save view for final report**
 
-![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/tree/main/www/5_addcardforreport.png)
+![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/main/www/5_addcardforreport.png)
 
 **6. Card report**
 
-![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/tree/main/www/6_downloadTargeReports.png)
+![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/main/www/6_downloadTargeReports.png)
 
 **7. Bookmarks/snapshots of your interest**
 
-![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/tree/main/www/7_bookmark_snapshot.png)
+![](https://raw.githubusercontent.com/corinabioinformatic/teal_demo_2023/main/www/7_bookmark_snapshot.png)
 
 
 
